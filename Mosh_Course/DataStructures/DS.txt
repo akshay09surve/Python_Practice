@@ -1,0 +1,10 @@
+1. Lists object
+2. Map object
+3. Filter object
+4. Stack object
+5. Queue object
+6. Tuple object
+7. Arrays object
+8. Sets object
+9. Dictionary object
+10. Generator object
